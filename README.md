@@ -1,4 +1,4 @@
-# etcg-pending
+# EasyTCG: Pending
 This mod gathers a list of your pending cards for use with other mods.
 
 I'm hosting EasyTCG mods on my Github & crediting the source, because too often TCG mod sites go down (entire forums of contributed code have gone down) & that code is lost forever unless the Internet Archive happened to save a copy.
